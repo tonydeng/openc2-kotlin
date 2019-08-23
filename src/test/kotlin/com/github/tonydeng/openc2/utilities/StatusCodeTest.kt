@@ -1,4 +1,4 @@
-package com.github.tonydeng.openc2
+package com.github.tonydeng.openc2.utilities
 
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.github.tonydeng.openc2.utilities.StatusCode.OK
