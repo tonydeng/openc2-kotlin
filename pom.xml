@@ -13,7 +13,7 @@
         <logback.version>1.2.3</logback.version>
         <cloudopt-logger.version>1.0.1</cloudopt-logger.version>
         <jackson-module-kontlin.version>2.9.7</jackson-module-kontlin.version>
-        <guava.version>27.0.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
     <dependencies>
         <dependency>
