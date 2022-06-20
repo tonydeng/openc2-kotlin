@@ -8,7 +8,7 @@
     <name>openc2-kotlin</name>
     <url>http://maven.apache.org</url>
     <properties>
-        <kotlin.version>1.3.50</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <junit.jupiter.version>5.3.1</junit.jupiter.version>
         <logback.version>1.2.3</logback.version>
         <cloudopt-logger.version>1.0.1</cloudopt-logger.version>
